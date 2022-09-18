@@ -26,12 +26,19 @@
 
 Программа ожидает на вход строку со скобками. На выход сообщение: "Сбалансированно", если строка корректная, и "Несбалансированно", если строка составлена неверно.
 
+[Решение](https://github.com/ivan-nev/Advance_7_Interview/blob/master/main.py)
+
 \*3. [рефакторинг кода (необязательное задание)](PEP8.md)
 
 Задачи, которые помогут подговиться к собеседованиям можно найти на следующих ресурсах:
 
 - [leetcode](https://leetcode.com/)
 - [checkio](https://checkio.org/)
+
+[Решение](https://github.com/ivan-nev/Advance_7_Interview/blob/master/send_email.py/)
+
+
+
 
 ---
 
